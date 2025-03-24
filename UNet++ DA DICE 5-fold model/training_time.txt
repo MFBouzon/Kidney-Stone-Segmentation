@@ -1,0 +1,5 @@
+Fold 1: 1981.60 segundos
+Fold 2: 1834.28 segundos
+Fold 3: 1823.10 segundos
+Fold 4: 1827.50 segundos
+Fold 5: 1829.23 segundos
